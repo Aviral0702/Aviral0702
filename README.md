@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Aviral Asthana</h1>
+<h3 align="center">A passionate Web Developer and a Competitive coding enthusiast from India</h3>
+
 🔭 I’m currently working on Property Management<br><br>🌱 I’m currently learning Golang<br><br>👯 I’m looking to collaborate on Fintech Project<br><br>📝 I regularly write articles on [https://aviralasthana7.hashnode.dev/](https://aviralasthana7.hashnode.dev/)<br><br>💬 Ask me about React.js, Next.js and Tailwind CSS<br><br>📫 How to reach me aviral.asthana070402@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/drive/folders/1_63QU8BNNN7S9kHpLDbiEmcPhw4bplKf](https://drive.google.com/drive/folders/1_63QU8BNNN7S9kHpLDbiEmcPhw4bplKf)<br><br>⚡ Fun fact I don't code much
 
 
