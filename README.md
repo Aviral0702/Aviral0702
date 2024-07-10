@@ -134,7 +134,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Aviral's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aviral0702&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Aviral's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aviral0702&custom_title=Aviral's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
