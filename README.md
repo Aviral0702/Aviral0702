@@ -47,8 +47,6 @@
 
 - 📄 Know about my experiences [My Experiences](https://drive.google.com/drive/folders/1_63QU8BNNN7S9kHpLDbiEmcPhw4bplKf)
 
-- ⚡ Fun fact **I don't code much.**
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
