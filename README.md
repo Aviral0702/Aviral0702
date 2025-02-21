@@ -33,7 +33,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <br><br>
 
-- 🔭 I’m currently working on **ByteBazaar**
+- 🔭 I’m currently working on **TestifAI**
 
 - 🌱 I’m currently learning **GoLang**
 
@@ -65,7 +65,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,py,flask,fastapi,django,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,py,django,express" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,figma,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,linux" />
   </a>
 </p>
 
