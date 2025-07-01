@@ -33,15 +33,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <br><br>
 
-- 🔭 I’m currently working on **TestifAI**
+- 🔭 I’m currently working on **My Own Database**
 
 - 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on Fintech Project
 
-- 📝 I regularly write articles on [https://aviralasthana7.hashnode.dev/](https://aviralasthana7.hashnode.dev/)
+- 📝 I write articles on [https://aviralasthana7.hashnode.dev/](https://aviralasthana7.hashnode.dev/)
 
-- 💬 Ask me about **C++, Python, Javscript and NodeJS**
+- 💬 Ask me about **Java, C++, Spring Boot**
 
 - 📫 How to reach me **aviral.asthana070402@gmail.com**
 
