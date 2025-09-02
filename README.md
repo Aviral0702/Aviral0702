@@ -37,7 +37,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👯 I’m looking to collaborate on Fintech Project
+- 👯 Talks about Backend and Scalability on <a href="https://x.com/AviralAsthana10"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
 
 - 📝 I write articles on [https://aviralasthana7.hashnode.dev/](https://aviralasthana7.hashnode.dev/)
 
