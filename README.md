@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aviral Asthana</h1>
-<h3 align="center">A passionate Web Developer and Competitive Programmer from India</h3>
+<h3 align="center">Backend | Scalability
 <p align="center"> 
 <!--  <img src="https://komarev.com/ghpvc/?username=aviral0702&label=Profile%20views&color=0e75b6&style=flat" alt="aviral asthana" />  -->
 <!--  <img src="https://img.shields.io/badge/Languages-Python | C++ | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
